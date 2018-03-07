@@ -1,4 +1,10 @@
--- init.lua
+--
+-- init.lua v1.0.0
+-- https://github.com/qudou/miot-relay
+-- (c) 2009-2017 qudou
+-- Released under the MIT license
+--
+
 local wifiReady = 0
 print('Setting up WIFI...')
 station_cfg={}

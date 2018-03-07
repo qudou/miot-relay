@@ -5,7 +5,7 @@
  * Released under the MIT license
  */
 
-xmlplus("10001", (xp, $_, t) => {
+xmlplus("f2384144-a9cd-4eec-ab8c-4f566b37067f", (xp, $_, t) => {
 
 $_().imports({
     Icon: {

@@ -1,3 +1,10 @@
+--
+-- mqtt.lua v1.0.0
+-- https://github.com/qudou/miot-relay
+-- (c) 2009-2017 qudou
+-- Released under the MIT license
+--
+
 local ID = "17736a05-70c8-458c-9fa5-7bc413e1fe36"
 local Gateway = "bbfc469e-f0d8-4dd0-b140-76983b58ebcb"
 
